@@ -11,3 +11,4 @@ Personal repository to track my SQL learning journey and practice queries.
 
 ---
 Learning and growing every day!
+Day_2.sql: Mastered aggregate functions (SUM, AVG, COUNT) and learned the difference between WHERE and HAVING clauses.
