@@ -1,20 +1,13 @@
-# SQL Practice Sessions 🚀
 
-Personal repository to track my SQL learning journey and practice queries.
+​📂# SQL Learning Journey#
 
-## 📂 Projects
-- *sakila_Day 1_practice.sql*: Basic queries (SELECT, WHERE, ORDER BY) using the Sakila database.
-
-## 🛠️ Tech Stack
-- *Database*: MySQL / PostgreSQL
-- *Tool*: SQL Queries for Data Analysis
-
-Learning and growing every day!
-*Day_2.sql*: Mastered aggregate functions (SUM, AVG, COUNT) and learned the difference between WHERE and HAVING clauses.
+​sakila_Day1_practice.sql: Basic data retrieval using SELECT, WHERE filters, and ORDER BY for sorting.
+​Day_2.sql: Mastery of Aggregate functions (SUM, AVG, COUNT) and the crucial difference between WHERE vs HAVING clauses.
+​sakila_Day3_Subqueries.sql: Deep dive into Nested Queries—implemented subqueries in WHERE, SELECT, and FROM (Derived Tables) clauses.
+​sakila_Day4_Set_CTEs.sql: Advanced logic using ANY, ALL, and EXISTS. Simplified complex queries using the WITH clause (CTEs) for professional-grade code.
 
 
-
-*sakila_Day3_Subqueries.sql*:  Mastered the art of Subqueries (Nested Queries).
-​Used subqueries in the WHERE clause for advanced filtering (IN, NOT IN).
-​Implemented Scalar Subqueries in the SELECT statement to compare row-level data with global totals.
-​Created Derived Tables using the FROM clause to perform multi-step data analysis.
+​🛠️* Tech Stack & Tools*
+​Database: MySQL (Sakila Sample)
+​Editor: MySQL Workbench
+​Concepts: DQL (Data Query Language) & Advanced Subqueries
