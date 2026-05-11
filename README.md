@@ -9,6 +9,8 @@
 
 ​sakila_Day4_Set_CTEs.sql: Advanced logic using ANY, ALL, and EXISTS. Simplified complex queries using the WITH clause (CTEs) for professional-grade code.
 
+sakila_Day5: Mastered Conditional Logic using CASE WHEN and deep dive into Joins (Inner, Left, and Full Outer Join using UNION).
+
 
 ​🛠️* Tech Stack & Tools*
 ​Database: MySQL (Sakila Sample)
